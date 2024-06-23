@@ -1,7 +1,5 @@
 package at.cgsit.training01;
 
-import org.junit.Rule;
-import org.junit.contrib.java.lang.system.SystemOutRule;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
