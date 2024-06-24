@@ -8,7 +8,7 @@
 
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>train_maven_24_06_trainer</name>
+    <name>train_maven_24_06</name>
     <url>http://maven.apache.org</url>
 
     <properties>
