@@ -1,6 +1,5 @@
 package at.cgsit.training01;
 
-
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
